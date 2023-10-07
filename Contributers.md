@@ -9,6 +9,9 @@
 - Madhya Pradesh, India
 - Hobbies: Anime, Gaming, Coding.
 
+### **Amisha Sahu**: [Amisha328](https://github.com/Amisha328)
+- Uttar Pradesh, India
+- Hobbies: Reading, Gaming
 ...
 
 
