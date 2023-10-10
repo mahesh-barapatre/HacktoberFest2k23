@@ -11,4 +11,11 @@
 
 ...
 
+### **Sabir Khan**: [Sabir-Khan](https://github.com/DroidMystic)
+- Uttarakhand, India
+- Hobbies: App Dev, Photography.
+
+...
+
+
 
